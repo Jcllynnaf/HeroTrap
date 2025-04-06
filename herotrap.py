@@ -57,7 +57,7 @@ RESULT = f'{LOG_DIR}/result.txt'
 TEMPLATES_JSON = f'{path_to_script}/template/templates.json'
 TEMP_KML = f'{path_to_script}/template/sample.kml'
 META_FILE = f'{path_to_script}/metadata.json'
-META_URL = 'https://raw.githubusercontent.com/Jcllynnaf/HeroTrap/master/metadata.json'
+META_URL = 'https://raw.githubusercontent.com/thewhiteh4t/seeker/master/metadata.json'
 PID_FILE = f'{path_to_script}/pid'
 
 if not path.isdir(LOG_DIR):
