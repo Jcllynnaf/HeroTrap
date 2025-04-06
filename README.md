@@ -1,19 +1,4 @@
-<p align="center"><img src="https://i.imgur.com/DIpuNTI.jpg"></p>
-
-<p align="center">
-    <a href="https://twitter.com/thewhiteh4t">
-      <img src="https://img.shields.io/badge/-TWITTER-black?logo=twitter&style=for-the-badge">
-    </a>
-    &nbsp;
-    <a href="https://twc1rcle.com/">
-      <img src="https://img.shields.io/badge/-THE WHITE CIRCLE-black?logo=&style=for-the-badge">
-    </a>
-    &nbsp;
-    <a href="https://thewhiteh4t.github.io/">
-      <img src="https://img.shields.io/badge/-BLOG-black?logo=dialogflow&style=for-the-badge">
-    </a>
-</p>
-
+<p align="center"><img src=""></p>
 <p align="center">
   <br>
   <b>Available in</b>
@@ -22,18 +7,18 @@
 </p>
 
 <p>
-  <a style="margin-right: 10px;" href="https://github.com/thewhiteh4t/seeker#installation">
+  <a style="margin-right: 10px;" href="https://github.com/Jcllynnaf/HeroTrap#installation">
     <img src="https://dabuttonfactory.com/button.png?t=INSTALL&f=Open+Sans&ts=15&tc=000&hp=25&vp=10&c=5&bgt=unicolored&bgc=00e2ff">
   </a>
-  <a style="margin-right: 10px;" href="https://github.com/thewhiteh4t/seeker#usage">
+  <a style="margin-right: 10px;" href="https://github.com/Jcllynnaf/HeroTrap#usage">
     <img src="https://dabuttonfactory.com/button.png?t=USAGE&f=Open+Sans&ts=15&tc=000&hp=25&vp=10&c=5&bgt=unicolored&bgc=00e2ff">
   </a>
-  <a href="https://github.com/thewhiteh4t/seeker#demo">
+  <a href="https://github.com/Jcllynnaf/HeroTrap#demo">
     <img src="https://dabuttonfactory.com/button.png?t=DEMO&f=Open+Sans&ts=15&tc=000&hp=25&vp=10&c=5&bgt=unicolored&bgc=00e2ff">
   </a>
 </p>
 
-Concept behind Seeker is simple, just like we host phishing pages to get credentials why not host a fake page that requests your location like many popular location based websites. Read more on <a href="https://thewhiteh4t.github.io"> thewhiteh4t's Blog </a>.Seeker Hosts a fake website which asks for Location Permission and if the target allows it, we can get :
+Concept behind Seeker is simple, just like we host phishing pages to get credentials why not host a fake page that requests your location like many popular location based websites. Read more on <a href="https://heroinfather.carrd.co"> heroinfather Blog </a>.Seeker Hosts a fake website which asks for Location Permission and if the target allows it, we can get :
 
 * Longitude
 * Latitude
@@ -106,8 +91,8 @@ Once your template is ready, **do not forget to propose it to the community via 
 ### Kali Linux / Arch Linux / Ubuntu / Fedora / Parrot OS / Termux
 
 ```bash
-git clone https://github.com/thewhiteh4t/seeker.git
-cd seeker/
+git clone https://github.com/Jcllynnaf/HeroTrap.git
+cd HeroTrap/
 chmod +x install.sh
 ./install.sh
 ```
@@ -115,20 +100,20 @@ chmod +x install.sh
 ### BlackArch Linux
 
 ```bash
-sudo pacman -S seeker
+sudo pacman -S HeroTrap
 ```
 
 ### Docker
 
 ```bash
-docker pull thewhiteh4t/seeker
+docker pull Jcllynnaf/HeroTrap
 ```
 
 ### OSX
 ```bash
-git clone https://github.com/thewhiteh4t/seeker.git
-cd seeker/
-python3 seeker.py
+git clone https://github.com/Jcllynnaf/HeroTrap.git
+cd HeroTrap/
+python3 herotrap.py
 ````
 
 In order to run in tunnel mode, install ngrok by running this command in the terminal:
@@ -217,10 +202,10 @@ $ python3 seeker.py -t 1
 $ docker network create ngroknet
 
 # Step 2
-$ docker run --rm -it --net ngroknet --name seeker thewhiteh4t/seeker
+$ docker run --rm -it --net ngroknet --name seeker Jcllynnaf/herotrap
 
 # Step 3
-$ docker run --rm -it --net ngroknet --name ngrok wernight/ngrok ngrok http seeker:8080
+$ docker run --rm -it --net ngroknet --name ngrok wernight/ngrok ngrok http herotrap:8080
 ```
 
 ## Local Tunnels
