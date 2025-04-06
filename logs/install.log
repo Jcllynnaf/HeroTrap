@@ -1,0 +1,281 @@
+=====================
+INSTALLING FOR DEBIAN
+=====================
+
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python3 is already the newest version (3.13.1-2).
+The following packages were automatically installed and are no longer required:
+  crackmapexec                 libmsgraph-0-1
+  firebird3.0-common           libnetcdf19t64
+  firebird3.0-common-doc       libpaper1
+  libbfio1                     libpoppler140
+  libc++1-19                   libpython3.12-dev
+  libc++abi1-19                libpython3.12-minimal
+  libcapstone4                 libpython3.12-stdlib
+  libconfig++9v5               libpython3.12t64
+  libconfig9                   libqt5sensors5
+  libdirectfb-1.7-7t64         libqt5webkit5
+  libegl-dev                   libsuperlu6
+  libflac12t64                 libtag1v5
+  libfmt9                      libtag1v5-vanilla
+  libgdal35                    libtagc0
+  libgeos3.13.0                libunwind-19
+  libgl1-mesa-dev              libwebrtc-audio-processing1
+  libglapi-mesa                libx265-209
+  libgles-dev                  openjdk-23-jre
+  libgles1                     openjdk-23-jre-headless
+  libglvnd-core-dev            python3-appdirs
+  libglvnd-dev                 python3-ntlm-auth
+  libgtksourceview-3.0-1       python3-setproctitle
+  libgtksourceview-3.0-common  python3.12
+  libgtksourceviewmm-3.0-0v5   python3.12-dev
+  libgumbo2                    python3.12-minimal
+  libhdf5-103-1t64             python3.12-venv
+  libhdf5-hl-100t64            ruby-zeitwerk
+  libjxl0.9                    ruby3.1
+  libldap-2.5-0                ruby3.1-dev
+  libmbedcrypto7t64            ruby3.1-doc
+Use 'sudo apt autoremove' to remove them.
+
+Summary:
+  Upgrading: 0, Installing: 0, Removing: 0, Not Upgrading: 376
+
+--------------------
+
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python3-pip is already the newest version (25.0.1+dfsg-1).
+The following packages were automatically installed and are no longer required:
+  crackmapexec                 libmsgraph-0-1
+  firebird3.0-common           libnetcdf19t64
+  firebird3.0-common-doc       libpaper1
+  libbfio1                     libpoppler140
+  libc++1-19                   libpython3.12-dev
+  libc++abi1-19                libpython3.12-minimal
+  libcapstone4                 libpython3.12-stdlib
+  libconfig++9v5               libpython3.12t64
+  libconfig9                   libqt5sensors5
+  libdirectfb-1.7-7t64         libqt5webkit5
+  libegl-dev                   libsuperlu6
+  libflac12t64                 libtag1v5
+  libfmt9                      libtag1v5-vanilla
+  libgdal35                    libtagc0
+  libgeos3.13.0                libunwind-19
+  libgl1-mesa-dev              libwebrtc-audio-processing1
+  libglapi-mesa                libx265-209
+  libgles-dev                  openjdk-23-jre
+  libgles1                     openjdk-23-jre-headless
+  libglvnd-core-dev            python3-appdirs
+  libglvnd-dev                 python3-ntlm-auth
+  libgtksourceview-3.0-1       python3-setproctitle
+  libgtksourceview-3.0-common  python3.12
+  libgtksourceviewmm-3.0-0v5   python3.12-dev
+  libgumbo2                    python3.12-minimal
+  libhdf5-103-1t64             python3.12-venv
+  libhdf5-hl-100t64            ruby-zeitwerk
+  libjxl0.9                    ruby3.1
+  libldap-2.5-0                ruby3.1-dev
+  libmbedcrypto7t64            ruby3.1-doc
+Use 'sudo apt autoremove' to remove them.
+
+Summary:
+  Upgrading: 0, Installing: 0, Removing: 0, Not Upgrading: 376
+
+--------------------
+
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python3-requests is already the newest version (2.32.3+dfsg-4).
+python3-requests set to manually installed.
+The following packages were automatically installed and are no longer required:
+  crackmapexec                 libmsgraph-0-1
+  firebird3.0-common           libnetcdf19t64
+  firebird3.0-common-doc       libpaper1
+  libbfio1                     libpoppler140
+  libc++1-19                   libpython3.12-dev
+  libc++abi1-19                libpython3.12-minimal
+  libcapstone4                 libpython3.12-stdlib
+  libconfig++9v5               libpython3.12t64
+  libconfig9                   libqt5sensors5
+  libdirectfb-1.7-7t64         libqt5webkit5
+  libegl-dev                   libsuperlu6
+  libflac12t64                 libtag1v5
+  libfmt9                      libtag1v5-vanilla
+  libgdal35                    libtagc0
+  libgeos3.13.0                libunwind-19
+  libgl1-mesa-dev              libwebrtc-audio-processing1
+  libglapi-mesa                libx265-209
+  libgles-dev                  openjdk-23-jre
+  libgles1                     openjdk-23-jre-headless
+  libglvnd-core-dev            python3-appdirs
+  libglvnd-dev                 python3-ntlm-auth
+  libgtksourceview-3.0-1       python3-setproctitle
+  libgtksourceview-3.0-common  python3.12
+  libgtksourceviewmm-3.0-0v5   python3.12-dev
+  libgumbo2                    python3.12-minimal
+  libhdf5-103-1t64             python3.12-venv
+  libhdf5-hl-100t64            ruby-zeitwerk
+  libjxl0.9                    ruby3.1
+  libldap-2.5-0                ruby3.1-dev
+  libmbedcrypto7t64            ruby3.1-doc
+Use 'sudo apt autoremove' to remove them.
+
+Summary:
+  Upgrading: 0, Installing: 0, Removing: 0, Not Upgrading: 376
+
+--------------------
+
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python3-packaging is already the newest version (24.2-1).
+python3-packaging set to manually installed.
+The following packages were automatically installed and are no longer required:
+  crackmapexec                 libmsgraph-0-1
+  firebird3.0-common           libnetcdf19t64
+  firebird3.0-common-doc       libpaper1
+  libbfio1                     libpoppler140
+  libc++1-19                   libpython3.12-dev
+  libc++abi1-19                libpython3.12-minimal
+  libcapstone4                 libpython3.12-stdlib
+  libconfig++9v5               libpython3.12t64
+  libconfig9                   libqt5sensors5
+  libdirectfb-1.7-7t64         libqt5webkit5
+  libegl-dev                   libsuperlu6
+  libflac12t64                 libtag1v5
+  libfmt9                      libtag1v5-vanilla
+  libgdal35                    libtagc0
+  libgeos3.13.0                libunwind-19
+  libgl1-mesa-dev              libwebrtc-audio-processing1
+  libglapi-mesa                libx265-209
+  libgles-dev                  openjdk-23-jre
+  libgles1                     openjdk-23-jre-headless
+  libglvnd-core-dev            python3-appdirs
+  libglvnd-dev                 python3-ntlm-auth
+  libgtksourceview-3.0-1       python3-setproctitle
+  libgtksourceview-3.0-common  python3.12
+  libgtksourceviewmm-3.0-0v5   python3.12-dev
+  libgumbo2                    python3.12-minimal
+  libhdf5-103-1t64             python3.12-venv
+  libhdf5-hl-100t64            ruby-zeitwerk
+  libjxl0.9                    ruby3.1
+  libldap-2.5-0                ruby3.1-dev
+  libmbedcrypto7t64            ruby3.1-doc
+Use 'sudo apt autoremove' to remove them.
+
+Summary:
+  Upgrading: 0, Installing: 0, Removing: 0, Not Upgrading: 376
+
+--------------------
+
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+python3-psutil is already the newest version (5.9.8-2).
+python3-psutil set to manually installed.
+The following packages were automatically installed and are no longer required:
+  crackmapexec                 libmsgraph-0-1
+  firebird3.0-common           libnetcdf19t64
+  firebird3.0-common-doc       libpaper1
+  libbfio1                     libpoppler140
+  libc++1-19                   libpython3.12-dev
+  libc++abi1-19                libpython3.12-minimal
+  libcapstone4                 libpython3.12-stdlib
+  libconfig++9v5               libpython3.12t64
+  libconfig9                   libqt5sensors5
+  libdirectfb-1.7-7t64         libqt5webkit5
+  libegl-dev                   libsuperlu6
+  libflac12t64                 libtag1v5
+  libfmt9                      libtag1v5-vanilla
+  libgdal35                    libtagc0
+  libgeos3.13.0                libunwind-19
+  libgl1-mesa-dev              libwebrtc-audio-processing1
+  libglapi-mesa                libx265-209
+  libgles-dev                  openjdk-23-jre
+  libgles1                     openjdk-23-jre-headless
+  libglvnd-core-dev            python3-appdirs
+  libglvnd-dev                 python3-ntlm-auth
+  libgtksourceview-3.0-1       python3-setproctitle
+  libgtksourceview-3.0-common  python3.12
+  libgtksourceviewmm-3.0-0v5   python3.12-dev
+  libgumbo2                    python3.12-minimal
+  libhdf5-103-1t64             python3.12-venv
+  libhdf5-hl-100t64            ruby-zeitwerk
+  libjxl0.9                    ruby3.1
+  libldap-2.5-0                ruby3.1-dev
+  libmbedcrypto7t64            ruby3.1-doc
+Use 'sudo apt autoremove' to remove them.
+
+Summary:
+  Upgrading: 0, Installing: 0, Removing: 0, Not Upgrading: 376
+
+--------------------
+
+
+WARNING: apt does not have a stable CLI interface. Use with caution in scripts.
+
+Reading package lists...
+Building dependency tree...
+Reading state information...
+php is already the newest version (2:8.4+96).
+The following packages were automatically installed and are no longer required:
+  crackmapexec                 libmsgraph-0-1
+  firebird3.0-common           libnetcdf19t64
+  firebird3.0-common-doc       libpaper1
+  libbfio1                     libpoppler140
+  libc++1-19                   libpython3.12-dev
+  libc++abi1-19                libpython3.12-minimal
+  libcapstone4                 libpython3.12-stdlib
+  libconfig++9v5               libpython3.12t64
+  libconfig9                   libqt5sensors5
+  libdirectfb-1.7-7t64         libqt5webkit5
+  libegl-dev                   libsuperlu6
+  libflac12t64                 libtag1v5
+  libfmt9                      libtag1v5-vanilla
+  libgdal35                    libtagc0
+  libgeos3.13.0                libunwind-19
+  libgl1-mesa-dev              libwebrtc-audio-processing1
+  libglapi-mesa                libx265-209
+  libgles-dev                  openjdk-23-jre
+  libgles1                     openjdk-23-jre-headless
+  libglvnd-core-dev            python3-appdirs
+  libglvnd-dev                 python3-ntlm-auth
+  libgtksourceview-3.0-1       python3-setproctitle
+  libgtksourceview-3.0-common  python3.12
+  libgtksourceviewmm-3.0-0v5   python3.12-dev
+  libgumbo2                    python3.12-minimal
+  libhdf5-103-1t64             python3.12-venv
+  libhdf5-hl-100t64            ruby-zeitwerk
+  libjxl0.9                    ruby3.1
+  libldap-2.5-0                ruby3.1-dev
+  libmbedcrypto7t64            ruby3.1-doc
+Use 'sudo apt autoremove' to remove them.
+
+Summary:
+  Upgrading: 0, Installing: 0, Removing: 0, Not Upgrading: 376
+
+--------------------
+
+=========
+COMPLETED
+=========
+
